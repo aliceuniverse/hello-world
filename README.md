@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Just another repository
+LPIII de aula na GitHub com desenvolvimento o Iniciando
